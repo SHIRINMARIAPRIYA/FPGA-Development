@@ -1,0 +1,27 @@
+POWER_ON_RESET Initial delay after power-on 15ms INIT_1
+INIT_1 First initialization command 4.1ms INIT_2
+INIT_2 Second initialization command 100μs INIT_3
+INIT_3 Third initialization command 100μs FUNCTION_SET
+FUNCTION_SET Configure 4-bit mode 40μs DISPLAY_ON
+DISPLAY_ON Enable display, cursor off 40μs DISPLAY_CLEAR
+DISPLAY_CLEAR Clear display content 1.64ms ENTRY_MODE
+ENTRY_MODE Set cursor increment mode 40μs WRITE_L
+WRITE_L Display character 'L' 40μs WRITE_O
+WRITE_O Display character 'O' 40μs WRITE_R
+WRITE_R Display character 'R' 40μs WRITE_D
+WRITE_D Display character 'D' 40μs COMPLETE
+COMPLETE Operation finished ∞ COMPLETE
+Appendix C: VGA Timing Parameters
+Detailed VGA timing specifications for 640×480 @ 60Hz operation:
+Parameter Pixels/Lines Time (μs/ms) Description
+Horizontal Timing
+Active Video 640 25.422 Visible pixel data
+Front Porch 16 0.636 End of active to sync
+Sync Pulse 96 3.813 Horizontal sync
+Back Porch 48 1.907 End of sync to active
+Total Line 800 31.778 Complete horizontal line
+Vertical TimingActive Video 480 15.253 Visible display lines
+Front Porch 10 0.318 End of active to sync
+Sync Pulse 2 0.064 Vertical sync
+Back Porch 33 1.048 End of sync to active
+Total Frame 525 16.683 Complete frame period
