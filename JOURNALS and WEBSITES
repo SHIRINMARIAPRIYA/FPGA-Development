@@ -1,0 +1,29 @@
+1. Xilinx Inc., "Spartan-6 FPGA Data Sheet: DC and Switching
+Characteristics," DS162 (v3.1.4), March 2013. Available:
+https://www.xilinx.com/support/documentation/data_sheets/ds162.pdf
+2. Xilinx Inc., "Spartan-6 FPGA Configurable Logic Block User Guide,"
+UG384 (v1.2), February 2010.
+Available:
+https://www.xilinx.com/support/documentation/user_guides/ug384.pdf
+3. Hitachi Ltd., "HD44780U (LCD-II) Dot Matrix Liquid Crystal Display
+Controller/Driver," ADE-207- 272(Z), Rev. 0.0, 1998.
+4. Hitachi Ltd., "HD44780-Compatible LCD Controller Interface
+Specification," Application Note, 2000.
+5. Kumar, S., Singh, R., and Sharma, A., "Implementation of Highly Efficient
+Sorting Algorithm for Median Filtering using FPGA," International Journal of
+VLSI Design & Communication Systems, vol. 4, no. 3, pp. 21-32, June 2013.6. Pitas, I., and Venetsanopoulos, A. N., "Nonlinear Digital Filters: Principles
+and Applications," Kluwer Academic Publishers, Boston, MA, 1990.
+7. Video Electronics Standards Association, "VESA Display Monitor Timing
+(DMT) Standard Version 1.0 Rev. 13," December 2013.
+8. Video Electronics Standards Association, "VESA Coordinated Video Timing
+(CVT) Standard Version 1.2," February 2013.
+9. Future Technology Devices International Ltd., "FT2232H USB 2.0 Hi-Speed
+to UART/FIFO IC Datasheet," Document Reference No.: FT_000974, Version
+2.5, October 2016.
+10. Future Technology Devices International Ltd., "Application Note AN_146:
+USB Hardware Design Guidelines for FTDI ICs," Document Reference No.:
+FT_000296, Version 1.1, March 2011.
+11. Institute of Electrical and Electronics Engineers, "IEEE Standard for VHDL
+Language Reference Manual," IEEE Std 1076-2008, January 2009.
+12. Institute of Electrical and Electronics Engineers, "IEEE Standard for Verilog
+Hardware Description Language," IEEE Std 1364-2005, April 2006.
